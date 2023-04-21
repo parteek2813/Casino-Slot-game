@@ -56,6 +56,7 @@ stop.onclick=  function(){
         
     if((a == b) && (b==c)&& (a==c)){
         alert("Congrats! You have won")
+        console.log("ok");
     }
     else{
         alert("Try again!")
@@ -106,6 +107,16 @@ spin.onclick = function(){
     
 
 }
+
+$(document).ready(function(){
+
+    
+    
+})
+
+
+
+
 
 
 
